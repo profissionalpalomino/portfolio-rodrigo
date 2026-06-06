@@ -913,7 +913,7 @@ function Contact() {
       icon: <MessageCircle size={20} />,
       label: 'WhatsApp',
       value: 'Conversa rápida',
-      href: 'https://wa.me/5511999999999',
+      href: 'https://wa.me/5531994909326',
       accent: 'group-hover:border-green-400/50',
     },
     {
@@ -978,7 +978,7 @@ function Contact() {
         </div>
 
         <a
-          href="https://wa.me/5511999999999"
+          href="https://wa.me/5531994909326"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-item btn-magnetic inline-flex items-center gap-3 bg-sinal text-white rounded-full px-10 py-5 font-semibold text-lg"
@@ -1029,7 +1029,7 @@ function Footer() {
               {[
                 { label: 'LinkedIn', href: 'https://linkedin.com/in/rodrigopalomino97' },
                 { label: 'E-mail', href: 'mailto:rodrigopalomino2008@gmail.com' },
-                { label: 'WhatsApp', href: 'https://wa.me/5511999999999' },
+                { label: 'WhatsApp', href: 'https://wa.me/5531994909326' },
                 { label: 'Palomino Tech', href: '#' },
               ].map((l) => (
                 <a key={l.label} href={l.href} target="_blank" rel="noopener noreferrer"
